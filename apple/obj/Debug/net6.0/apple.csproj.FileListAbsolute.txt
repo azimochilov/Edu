@@ -1,0 +1,15 @@
+C:\projects\apple\apple\bin\Debug\net6.0\apple.exe
+C:\projects\apple\apple\bin\Debug\net6.0\apple.deps.json
+C:\projects\apple\apple\bin\Debug\net6.0\apple.runtimeconfig.json
+C:\projects\apple\apple\bin\Debug\net6.0\apple.dll
+C:\projects\apple\apple\bin\Debug\net6.0\apple.pdb
+C:\projects\apple\apple\obj\Debug\net6.0\apple.csproj.AssemblyReference.cache
+C:\projects\apple\apple\obj\Debug\net6.0\apple.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\apple\apple\obj\Debug\net6.0\apple.AssemblyInfoInputs.cache
+C:\projects\apple\apple\obj\Debug\net6.0\apple.AssemblyInfo.cs
+C:\projects\apple\apple\obj\Debug\net6.0\apple.csproj.CoreCompileInputs.cache
+C:\projects\apple\apple\obj\Debug\net6.0\apple.dll
+C:\projects\apple\apple\obj\Debug\net6.0\refint\apple.dll
+C:\projects\apple\apple\obj\Debug\net6.0\apple.pdb
+C:\projects\apple\apple\obj\Debug\net6.0\apple.genruntimeconfig.cache
+C:\projects\apple\apple\obj\Debug\net6.0\ref\apple.dll
